@@ -80,7 +80,6 @@ pymdown-extensions
 pyparsing
 python-dateutil
 pytz
-pywin32
 PyYAML
 pyzmq
 referencing
