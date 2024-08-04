@@ -10,7 +10,7 @@ def show():
     """)
     
     st.write("### Desempenho do Modelo")
-    accuracy = 0.72
+    accuracy = 0.65
     st.write(f"Acurácia do modelo: {accuracy * 100:.2f}%")
 
     st.write("### Distribuição das Classes no Conjunto de Dados")
