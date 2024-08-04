@@ -1,0 +1,78 @@
+
+
+.sidebar .sidebar-content {
+    background-color: #000080;
+    color: #ffffff;
+}
+
+.sidebar .sidebar-content a {
+    color: #ffffff;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #2cbe08;
+    font-weight: bold;
+    font-size: 3rem;
+    padding: 20px;
+    margin: 0;
+    text-decoration: none;
+ 
+
+}
+
+/* Estilo para o botão de fazer previsão */
+/* Estilo para o botão de fazer previsão */
+/* Estilo para o botão "Fazer Previsão" */
+.stButton .custom-button {
+    background-color: #000080; /* Cor de fundo do botão */
+    color: #ffffff; /* Cor do texto do botão */
+    border: none; /* Remove a borda padrão */
+    padding: 15px 30px; /* Espaçamento interno do botão */
+    cursor: pointer; /* Muda o cursor para indicar que é clicável */
+    border-radius: 10px; /* Cantos arredondados */
+    font-size: 1.2rem; /* Tamanho da fonte */
+    font-weight: bold; /* Fonte em negrito */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2); /* Sombra ao redor do botão */
+    transition: background-color 0.3s, transform 0.2s; /* Transições suaves para efeitos */
+}
+
+.stButton .custom-button:active {
+    background-color: #002244; /* Cor de fundo ao clicar */
+    transform: scale(0.98); /* Efeito de clique */
+}
+
+/* Estilo para o texto das mensagens de previsão */
+p.custom-message {
+    color: #ff0d0d; /* Cor do texto */
+    padding: 15px; /* Espaçamento interno */
+    margin: 10px 0; /* Margem superior e inferior */
+    font-size: 2.2rem; /* Tamanho da fonte específico para mensagens de previsão */
+    line-height: 1.6; /* Altura da linha para melhor legibilidade */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Sombra ao redor do texto */
+}
+
+
+.stSpinner > div > div {
+    border-top-color: #000080;
+}
+
+.stProgress > div > div > div > div {
+    background-color: #000080;
+}
+
+
+
+a{
+    text-decoration: none;
+}
+
+
+
+
+#MainMenu {
+    visibility: hidden;
+}
+
+header {
+    visibility: hidden;
+}

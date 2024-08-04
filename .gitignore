@@ -1,0 +1,45 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.db
+*.sqlite
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Pyenv
+.python-version
+
+# virtualenv
+venv/
+env/
+ENV/
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# Anaconda
+envs/
+*.condarc
+*.ipynb_checkpoints
+
+# TensorFlow
+saved_model/
+
+# Streamlit
+*.streamlit/
+
+# Dados
+data/
+*.csv
+
+
+
+# Arquivos temporários
+*.log
+*.tmp
