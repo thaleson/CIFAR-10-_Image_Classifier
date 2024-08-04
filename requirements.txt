@@ -97,7 +97,7 @@ soupsieve==2.5
 st-annotated-text==0.2.0
 st-theme==0.1.2
 stack-data==0.6.2
-streamlit==1.19.0
+streamlit
 streamlit-camera-input-live==0.0.1
 streamlit-card==0.0.6
 streamlit-embedcode==0.1.1
