@@ -6,7 +6,7 @@ attrs==23.1.0
 backcall==0.2.0
 beautifulsoup4==4.12.2
 blinker==1.5
-cachetools==5.3.0
+cachetools
 certifi==2024.6.15
 charset-normalizer==3.2.0
 click==8.1.3
