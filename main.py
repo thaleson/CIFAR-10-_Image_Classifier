@@ -23,7 +23,7 @@ local_css("static/css/style.css")
 # Função para carregar o modelo
 @st.cache_resource
 def load_model():
-    return tf.keras.models.load_model('models\modelo_cifar10 .h5')
+    return tf.keras.models.load_model('models/modelo_cifar10 .h5')
 
 model = load_model()
 
